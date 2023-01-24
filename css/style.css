@@ -43,3 +43,35 @@ body {
 button.header-btn {
   background-color: ;
 }
+
+.header-main {
+  color: #fff;
+  background-image: url(../images/banner.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.main-content {
+  max-width: 692px;
+  margin: auto;
+  padding: 105px 0px;
+}
+
+.main-content h1 {
+  font-family: 'EB Garamond';
+  font-weight: 800;
+  font-size: 72px;
+}
+
+.main-content p {
+  font-size: 16px;
+}
+
+button.header-main-btn {
+  padding: 10px 25px;
+}
+
+input.form-control {
+  padding: 10px;
+}
