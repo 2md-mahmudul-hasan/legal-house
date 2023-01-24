@@ -208,8 +208,15 @@ i.fa-solid.fa-arrow-right {
 
 /* contact us end */
 
+/* team */
+#team {
+  background-color: #70707042;
+}
+
+/* team end */
+
 #footer {
-  background-color: #000000;
+  background-color: #000000 !important;
   color: #fff;
   margin-bottom: 50px;
 
