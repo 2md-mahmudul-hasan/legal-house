@@ -184,6 +184,23 @@ i.fa-solid.fa-arrow-right {
 }
 
 
-#footer{
-  
+#footer {
+  background-color: #000000;
+  color: #fff;
+  margin-bottom: 50px;
+
+}
+
+.footer-menu li a {
+  color: #fff;
+}
+
+.footer-search {
+  position: relative;
+}
+
+button.footer-btn {
+  position: absolute;
+  right: 100px;
+  padding: 10px 15px;
 }
