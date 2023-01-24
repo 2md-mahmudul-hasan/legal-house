@@ -1,3 +1,45 @@
+/* font */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700;800&family=Poppins:wght@400;500;700&display=swap');
+/* font end */
+
 body {
-  background-color: wheat;
+  background-color: #E7E7E7;
+  font-family: 'Poppins', sans-serif;
+}
+
+.btn {
+  background-color: #B68C5A;
+  padding: 15px 20px;
+  color: #fff;
+}
+
+/* header */
+#header {}
+
+.header-top {
+  padding: 60px 0px;
+}
+
+.logo {}
+
+.logo h1 {
+  font-family: 'EB Garamond';
+  font-weight: 800;
+}
+
+.header-menu {}
+
+.header-menu ul {
+  align-items: center;
+}
+
+.header-menu ul li {}
+
+.header-menu ul li a {
+  color: #707070;
+}
+
+
+button.header-btn {
+  background-color: ;
 }
