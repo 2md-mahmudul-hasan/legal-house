@@ -183,6 +183,30 @@ i.fa-solid.fa-arrow-right {
   color: #000000;
 }
 
+/* contact us */
+.contacts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.contact {
+  background-color: #E7E7E7;
+  padding: 10px;
+  border: 1px solid beige;
+}
+
+.contact i {
+  color: rosybrown;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.contact-form input {
+  background-color: #d1d1d16a;
+  margin-bottom: 15px;
+}
+
+/* contact us end */
 
 #footer {
   background-color: #000000;
