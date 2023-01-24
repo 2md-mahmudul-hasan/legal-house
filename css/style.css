@@ -141,3 +141,15 @@ i.fa-solid.fa-arrow-right {
   color: #fff;
   font-size: 16px;
 }
+
+/* testimonail */
+.carousel-item img {
+  height: 500px;
+}
+
+.carousel-caption img {
+  margin-bottom: 30px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
